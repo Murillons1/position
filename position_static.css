@@ -1,0 +1,46 @@
+.pai{
+    background-color: brown;
+    width: 150px;
+    height: 100px;
+    /* position: absolute; */
+
+}
+
+.filho{
+    background-color: aqua;
+    /* position: relative; */
+    top: 200px;
+    left: 200px;
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+.filho2{
+    background-color: chocolate;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    color: wheat;
+    /* border: 10px black solid;
+    border-radius: 50%;     */
+}
+
+.filho3{
+    background-color: blueviolet;
+    width: 50px;
+    height: 50px;
+    /* position: absolute; */
+    top: 200px;
+    left: 200px;
+    color: wheat;
+}
+
+/* .*{
+    position: relative;
+    top: 150px;
+    left: 150px;
+    display: inline;
+} */
